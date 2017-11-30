@@ -5,7 +5,7 @@ It is a complete pipeline to call variants using different aligners such as Bowt
 
 In addition, it necessary to install aditional packages such as picard and samtools. 
 
-For more information:
+For more information and files used on this pipeline:
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4619817/
 
